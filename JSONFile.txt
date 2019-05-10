@@ -1,0 +1,1 @@
+[{"scalematesUrl":"/kits/afv-club-af35s88-cm-33-tifv--1217553","brand":"AFV Club","brandCatno":"AF35S88","name":"CM-33 TIFVPre-Serial Production","scale":"35","description":"Changed parts","boxartUrl":"https://www.scalemates.com/products/img/5/5/3/1217553-23814-74","year":"2019*"}]

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pasrer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pasrer_jar</output-path>
+    <root id="archive" name="pasrer.jar">
+      <element id="module-output" name="pasrer" />
+    </root>
+  </artifact>
+</component>
